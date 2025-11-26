@@ -1,0 +1,10 @@
+{
+    "name": "Admin pacientes",
+    "short_name": "AdPac",
+    "theme_color": "#ffe08a",
+    "background_color": "#ffe08a",
+    "display": "standalone",
+    "orientation": "portrait",
+    "scope": "./",
+    "start_url": "./"
+}
