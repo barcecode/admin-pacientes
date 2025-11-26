@@ -1,8 +1,8 @@
 {
     "name": "Admin pacientes",
     "short_name": "AdPac",
-    "theme_color": "#ffe08a",
-    "background_color": "#ffe08a",
+    "theme_color": "#ffffff",
+    "background_color": "#ffffff",
     "display": "standalone",
     "orientation": "portrait",
     "scope": "./",
